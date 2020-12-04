@@ -7,3 +7,4 @@
 - [ ] Ornek 3
 - [ ] Ornek 4
 - [ ] Ornek 5
+- [ ] Ornek 6

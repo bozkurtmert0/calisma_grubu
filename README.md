@@ -1,1 +1,6 @@
-# calisma_grubu
+# Yapilacaklar
+
+
+
+- [ ] Ornek 1
+- [x] Ornek 2
